@@ -1,0 +1,9 @@
+com/ssz/service/product/entity/Product.class
+com/ssz/service/product/service/impl/ProductServiceImpl.class
+com/ssz/service/product/MysqlGenerator$1.class
+com/ssz/service/product/mapper/ProductMapper.class
+com/ssz/service/product/MysqlGenerator.class
+com/ssz/service/product/ServiceProductApplication.class
+com/ssz/service/product/MysqlGenerator$2.class
+com/ssz/service/product/service/IProductService.class
+com/ssz/service/product/controller/ProductController.class
