@@ -8,6 +8,8 @@ spring:
 
 server:
   port: 1001
+#开启feign对sentinel的支持
 feign:
   sentinel:
     enabled: true
+
